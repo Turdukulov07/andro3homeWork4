@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Andr3lesson4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textDate">Friday, 20 May 2021 | 19:30PM</string>
+    <string name="textCity">Bishkek, KG</string>
+    <string name="textCloude">Sunny</string>
+    <string name="textCelsiusAmount">27</string>
+</resources>
